@@ -1,4 +1,4 @@
-# Consilia-habemus
+# Consilia habemus
 
 Ce projet a pour objectif de gérer les campagnes d'appels à projets ainsi que l'affectation de ces projets aux étudiants.
 
